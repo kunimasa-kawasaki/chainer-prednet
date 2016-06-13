@@ -2,7 +2,7 @@
 Deep Predictive Coding NetworksをChainerで実装を試みたもの。
 
 #注意点
-ConvLSTMを使用していないため参考文献2のCNN->LSTM->deCNNモデルです。
+ConvLSTMを使用していないため参考文献2のCNN->LSTM->deCNNモデルです。</r>
 PredNetは階層性が特徴ですが、実装は1層のみとなっています。
 
 #参考文献
