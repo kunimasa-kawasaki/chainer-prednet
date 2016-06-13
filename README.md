@@ -2,7 +2,7 @@
 Deep Predictive Coding NetworksをChainerで実装を試みたもの。
 
 #中身
-python train.py
+python train.py  
 train.py:学習用 NetClass.py:ネットワーク定義class  
 imageフォルダ:●が移動するサンプルデータです。  
 modelフォルダ:読み込み方法確認用です。(sampleの0~5000回の学習状態)  
