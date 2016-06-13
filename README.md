@@ -9,7 +9,8 @@ modelフォルダ:読み込み方法確認用です。(sampleの0~5000回の学�
 
 #注意点
 ConvLSTMを使用していないため参考文献2のCNN->LSTM->deCNNモデルです。  
-PredNetは階層性が特徴ですが、実装は1層のみとなっています。  
+PredNetは階層性が特徴ですが、実装は1層のみとなっています。
+制作途中のため正しく学習できるかどうかは不明です。  
 
 #参考文献
   1. Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning(http://arxiv.org/abs/1605.08104)
