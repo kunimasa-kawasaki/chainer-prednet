@@ -4,7 +4,7 @@ import MyLib as myl
 
 #%%
 #parameter : When use,change this value
-data_dir = './image/move_circle/' #training data path
+data_dir = './image/' #training data path
 n_epoch = 50000  #total epoch number 
 im_num = 10      #use image number
 im_k = 8         #reduction ratio
