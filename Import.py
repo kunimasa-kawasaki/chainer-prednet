@@ -7,6 +7,7 @@ import random
 
 import time
 import os
+import six
 import six.moves.cPickle as pickle
 
 from sklearn.metrics import accuracy_score
